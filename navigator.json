@@ -1,0 +1,24 @@
+{
+	"structure": [
+	{
+		"code": "general",
+		"sub": ["about",
+				"quick_quide",
+				"donations",
+				"faq"]
+	},
+	{
+		"code": "processes",
+		"sub": ["create",
+				"display",
+				"manage"]
+	},
+	{
+		"code": "use_cases",
+		"sub": ["math_lesson",
+				"history_lesson",
+				"science_project_presentation",
+				"physics_lesson"]
+	}
+]
+}
