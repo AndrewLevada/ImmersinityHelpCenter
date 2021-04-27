@@ -1,4 +1,4 @@
-{
+[
 	["general", ""],
 	["about", ""],
 	["quick_quide", ""],
@@ -13,4 +13,4 @@
 	["history_lesson", ""],
 	["science_project_presentation", ""],
 	["physics_lesson", ""]
-}
+]
