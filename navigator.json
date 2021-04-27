@@ -17,7 +17,7 @@
 		"code": "use_cases",
 		"sub": ["math_lesson",
 				"history_lesson",
-				"science_project_presentation",
+				"science_project",
 				"physics_lesson"]
 	}
 ]
