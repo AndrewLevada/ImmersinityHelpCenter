@@ -1,3 +1,3 @@
-# Use example - school science project presentation
+# Пример использования - Презентации школьного научного проекта
 
 TODO
