@@ -3,22 +3,17 @@
 	{
 		"code": "general",
 		"sub": ["about",
-				"quick_quide",
-				"donations",
-				"faq"]
+				"quick_guide"]
 	},
 	{
 		"code": "processes",
 		"sub": ["create",
-				"display",
-				"manage"]
+				"display"]
 	},
 	{
 		"code": "use_cases",
 		"sub": ["math_lesson",
-				"history_lesson",
-				"science_project",
-				"physics_lesson"]
+				"science_project"]
 	}
 ]
 }
