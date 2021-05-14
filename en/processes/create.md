@@ -1,31 +1,31 @@
-# Создание презентации
+# Create presentation
 
-## Концепция
-Презентации в Immersinity состоят из слайдов. На каждом слайде по порядку размещаются модули. Например текст, или формула. Новые модули постоянно добавляются. Если у вас есть идея модуля, отправьте письмо на [email](support@immersinity.com).
+## How it all works
+Presentations in Immersinity are made up of slides. Modules, such as text or equation, are placed in order on each slide. By the way, if you have an idea for a module, email us to [email](support@immersinity.com).
 
-## Как редактировать презентацию?
-Редактирование презентаций происходит в конструкторе. Для перехода в конструктор нажмите на кнопку [icon](create) возле нужной презентации в хранилище. 
+## How to edit presentation's contents?
+Editing of presentations takes place in the constructor. To go to the constructor click on the button [icon](create) next to the desired presentation in the storage.
 
-Конструктор состоит из трёх частей:
-1) Список слайдов
-2) Рабочая область, отображающая выбранный слайд
-3) Список модулей
+The constructor consists of three parts:
+1) Slide List
+2) Work area, showing the selected slide
+3) List of modules
 
-## Модули
-Сейчас в Immersinity 4 модуля (скоро их станет больше):
+## Modules
+Immersinity currently has 4 modules (more coming soon):
 
-### Текстовый
-Соответствует иконке [icon](format_align_left). Помимо непосредственно отображение текста, у этого модуля есть несколько дополнительных возможностей: 
+### Text
+Corresponds to icon [icon](format_align_left). In addition to displaying text, this module has several additional features:
 
-Если вначале строки поставить одну или несколько решеток, то эта строка будет отображаться как заголовок.
+If you put one or more hash signes at the beginning of a line, this line will be displayed as a heading.
 
-Также в текстовый модуль встроен ассистент создания списков. Попробуйте начать создавать любой список, и новые пункты автоматически будут добавляться. Сейчас поддерживается списки обозначеный символами '*', '+', '-' и пронумерованные '1)', '1.'
+Also, an assistant for creating lists is built into the text module. Try to start typing any list and new items will be added automatically. Currently supported lists denoted by symbols '*', '+', '-' and numbered '1)', '1.'
 
-### Изображение
-Соответствует иконке [icon](insert_photo). Этот модуль отображает загруженные вами картинку. Если вы загрузите сразу несколько картинок, то Immersinity атоматически добавит столько модулей картинок, сколько нужно для отображения всех, загруженных вами.
+### Image
+Corresponds to icon [icon](insert_photo). This module displays the images you have uploaded. If you upload several images at once, Immersinity will automatically add as many image modules as you need to display all files you uploaded.
 
-### Формула
-Соответствует иконке [icon](functions). Этот модуль отображает текст в формате LaTeX, который обычно используют для написания различных формул. Вы можете писать LaTeX самостоятельно, воспользоваться любым редактором или перейти в рекомендуемый, нажав на кнопку "Открыть редактор" в модуле.
+### Equation
+Corresponds to icon [icon](functions). This module displays text in LaTeX format, which is usually used to write various equations. You can write LaTeX yourself, use any editor or go to the recommended one by clicking on the "Open editor" button in the module.
 
-### Видео
-Соответствует иконке [icon](smart_display). Этот модуль отображает видео с YouTube. Достаточно просто вставить в его единственное текстовое поле ссылку на желаемое видео.
+### Video
+Corresponds to icon [icon](smart_display). This module displays YouTube videos. You just need to insert a link to the desired video in its only text field.

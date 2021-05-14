@@ -1,6 +1,6 @@
-# Показ презентации
-Все презентации в Immersinity доступны по ссылке или через форму подключения. Форма подключения требует кода и пароль для доступа к презентации, а ссылка их уже содержит. Код - индивидуальный индентификатор презентации, а пароль нужен для того, чтобы посторонние люди не смогли подключиться к презентации. 
+# Showing presentation
+All presentations in Immersinity are available via the link or via connection form. The connection form requires a code and pin to access the presentation, but link already contains them. Code is an individual identifier for the presentation, and password is needed to prevent unauthorized people from connecting to your presentation.
 
-Вы можете получить данные для формы подключения и ссылку на странице управления показом презентации (эта страница доступна из хранилища презентаций по нажатию на кнопку [icon](slideshow)).
+You can get the data for the connection form and link to presentation on the control page (this page is available from storage by clicking on the [icon] (slideshow) button).
 
-Также вы можете отключать презентации, чтобы времменно полностью запретить просмотр всем. Перед показом не забудьте включить презентацию, иначе ваша аудитория ничего не увидит.
+You can also turn off presentations to temporarily completely prohibit everyone from viewing. Be sure to turn on your presentation before showing it or your audience won't be able to see any content.
