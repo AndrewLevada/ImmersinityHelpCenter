@@ -2,15 +2,7 @@
 	["general", "General information"],
 	["about", "About"],
 	["quick_guide", "Quick guide"],
-	["support_project", "Support project"],
-	["faq", "FAQ"],
 	["processes", "How to"],
 	["create", "Make presentations"],
-	["display", "Show presentations"],
-	["manage", "Manage presentation"],
-	["use_cases", "Use Cases"],
-	["math_lesson", "Math lesson"],
-	["history_lesson", "History lesson"],
-	["science_project", "Science project"],
-	["physics_lesson", "Physics lesson"]
+	["display", "Show presentations"]
 ]

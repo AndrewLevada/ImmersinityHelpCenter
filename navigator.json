@@ -9,11 +9,6 @@
 		"code": "processes",
 		"sub": ["create",
 				"display"]
-	},
-	{
-		"code": "use_cases",
-		"sub": ["math_lesson",
-				"science_project"]
 	}
 ]
 }
